@@ -9,4 +9,4 @@
 # My Profile
 プロフィールです。
 ## Logo
-![logo](ミント.png)
+![logo](猫谷ルナlogo.png)
